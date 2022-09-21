@@ -59,6 +59,6 @@ function createInputs(numberOfInputs) {
 }
 
 function getHeroArray() {
-    let heroArray = ["Randomize", "Ana", "Ashe", "Baptiste", "Bastion", "Brigette", "Cassidy", "D.va", "Doomfist", "Echo", "Genji", "Hanzo", "Junker Queen -- OW2 Only", "Junkrat", "Kiriko","Lucio", "Mei", "Mercy", "Moira", "Orisa", "Pharah", "Reaper", "Reinhardt", "Roadhog", "Sigma", "Sojourn -- OW2 Only", "Soldier: 76", "Sombra", "Symmetra", "Torbjorn", "Tracer", "Widowmaker", "Winston", "Wrecking Ball", "Zarya", "Zenyatta"];
+    let heroArray = ["Randomize", "Ana", "Ashe", "Baptiste", "Bastion", "Brigette", "Cassidy", "D.va", "Doomfist", "Echo", "Genji", "Hanzo", "Junker Queen -- OW2 Only", "Junkrat", "Kiriko -- OW2 Only","Lucio", "Mei", "Mercy", "Moira", "Orisa", "Pharah", "Reaper", "Reinhardt", "Roadhog", "Sigma", "Sojourn -- OW2 Only", "Soldier: 76", "Sombra", "Symmetra", "Torbjorn", "Tracer", "Widowmaker", "Winston", "Wrecking Ball", "Zarya", "Zenyatta"];
     return heroArray;
 }
